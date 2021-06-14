@@ -26,7 +26,7 @@ Hi there 🙂 Thanks for landing on my profile!
   - Natural Language Processing
   - Data Structures and Algorithms
   - Privacy-preserving machine learning
-  - Differential Privacy and Lederated Learning
+  - Differential Privacy and Federated Learning
   - Game Theory</li>
 
 **Beginner/Enthusiast**
