@@ -35,7 +35,17 @@ Hi there 🙂 Thanks for landing on my profile!
   - Quantum Machine Learning
   - Astrophysics
 
+<h3>
+My Public Talks
+</h3>
+
+  - [Privacy-Preserving AI – Perform Data Science on Data You Cannot See - Presented in Women Who Code global conference](https://youtu.be/hsloD5AKYCs)
+  - [Climbing up the ladder through open-source contribution - Presented in Software Freedom Day 2021](https://youtu.be/zOuT6WU02_4)
+  - [Private Medical Deep Learning with Federated Learning & Differential Privacy | OpenMined PriCon 2020](https://youtu.be/RvK1ZUkeS3A)
+
 <hr/>
+
+
 <h4 align="left"> Quote of the day </h4>
 <p style="color:black">“Be a lifelong student. The more you learn, the more you earn and more self-confidence you will have.” Brian Tracy</p>
 
