@@ -39,7 +39,7 @@ Hi there 🙂 Thanks for landing on my profile!
 My Public Talks
 </h3>
 
-  - [Privacy-Preserving AI – Perform Data Science on Data You Cannot See - Presented in Women Who Code global conference](https://youtu.be/hsloD5AKYCs)
+  - [Privacy-Preserving AI – Perform Data Science on Data You Cannot See - Presented in Women Who Code CONNECT REIMAGINE 2021](https://youtu.be/hsloD5AKYCs)
   - [Climbing up the ladder through open-source contribution - Presented in Software Freedom Day 2021](https://youtu.be/zOuT6WU02_4)
   - [Private Medical Deep Learning with Federated Learning & Differential Privacy | OpenMined PriCon 2020](https://youtu.be/RvK1ZUkeS3A)
   - [3 Minute Thesis Competition - My Master's Thesis in 3 Minutes](https://youtu.be/aJsnNZ27yG0)
