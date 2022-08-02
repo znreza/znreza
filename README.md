@@ -39,7 +39,7 @@ Hi there 🙂 Thanks for landing on my profile!
 My Public Talks
 </h3>
 
-  - [Mistakes to Avoid as an AI Practioner in the Industry](https://youtu.be/dDF2R8xyfsA)
+  - [Mistakes to Avoid as an AI Practitioner in the Industry](https://youtu.be/dDF2R8xyfsA)
   - [End-to-end Orchestration of Machine Learning Models from POC to Deployment](https://datastacksummit.com/dss2022/ml-model-orchestration/)
   - [WIDSVan 2022: End to end ML Orchestration for Private Data by Zarreen Naowal Reza](https://youtu.be/_YOn6AEwXCY)
   - [The Role of Public Speaking in Career Growth - Women Who Code CONNECT Forward 2021](https://youtu.be/NaxYAFmJg2U)
