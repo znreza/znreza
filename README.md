@@ -11,7 +11,7 @@ Hi there 🙂 Thanks for landing on my profile!
  But wait! Don't misunderstand me as this typical unhappy nerd kid with big specs from your high school! Please note that I don't wear glasses and I am so much fun to be with 🦹🏻 (ask my friends and cousins). I love travelling, trying out new cuisines, cracking jokes and laying myself on bed for no reason.
   </p>
 
-<img align="right" width="55%" src="https://github.com/znreza/znreza/blob/master/social/general-relativity.jpg" />
+<img align="right" width="45%" src="https://github.com/znreza/znreza/blob/master/social/IMG_20220209_213012_635.jpg" />
 
 **Expert/Professional**
  
@@ -27,6 +27,7 @@ Hi there 🙂 Thanks for landing on my profile!
   - Data Structures and Algorithms
   - Privacy-preserving machine learning
   - Differential Privacy and Federated Learning
+  - Blockchain and DApps
   - Game Theory</li>
 
 **Beginner/Enthusiast**
