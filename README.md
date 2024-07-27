@@ -66,4 +66,4 @@ I am looking for ways to collaborate in any of the above mentioned areas, includ
 
 You can also connect with me through <a href="https://www.linkedin.com/in/zarreennreza/" target="_blank"><img src="https://github.com/znreza/znreza/blob/master/social/linkedin.png" /></a> and <a href="https://twitter.com/zarreennreza/" target="_blank"><img src="https://github.com/znreza/znreza/blob/master/social/twitter.png" /></a>
 
-Please check my blogs on [My AI Diary](https://ai-diary-by-znreza.com/).
+Feel free to check out my blogs in [My AI Diary](https://ai-diary-by-znreza.com/).
