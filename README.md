@@ -3,10 +3,10 @@ Hi there 🙂 Thanks for landing on my profile!
 </h2>
 
 <h3 align="center">
-Đata Scientist by ᑭrofession | Řesearcher by ᑭassion
+AI Research Scientist
 </h3>
 <p align="justified">
-  I am a data scientist and AI researcher from Bangladesh. Currently I am based in Canada. I am always driven by curiosity, eventually being ended up stepping into interesting places, exposed to new opportunities and meeting new people. I believe that knowledge is power and it has no end. Therefore, I am a lifelong student of the universe trying to acquire variety of knowledge just out of curiosity. 
+  I am an AI research scientist from Bangladesh, based in Canada. I am always driven by curiosity, eventually being ended up stepping into interesting places, exposed to new opportunities and meeting new people. I believe that knowledge is power and it has no end. Therefore, I am a lifelong student of the universe trying to acquire variety of knowledge just out of curiosity. 
   
  But wait! Don't misunderstand me as this typical unhappy nerd kid with big specs from your high school! Please note that I don't wear glasses and I am so much fun to be with 🦹🏻 (ask my friends and cousins). I love travelling, trying out new cuisines, cracking jokes and laying myself on bed for no reason.
   </p>
