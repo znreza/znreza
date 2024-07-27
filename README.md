@@ -42,7 +42,8 @@ My Public Talks
 
   - [Mistakes to Avoid as an AI Practitioner in the Industry - CONNECT Recharge 2022](https://youtu.be/dDF2R8xyfsA)
   - [End-to-end Orchestration of Machine Learning Models from POC to Deployment - DataStackSummit 2022](https://datastacksummit.com/dss2022/ml-model-orchestration/)
-  - [End to end ML Orchestration for Private Data - WIDSVan 2022: ](https://youtu.be/_YOn6AEwXCY)
+  - [End to end ML Orchestration for Private Data - WIDSVan 2022](https://youtu.be/_YOn6AEwXCY)
+  - [Career Cruise - Career Talks to Guide You Through Tech](https://youtu.be/7yK7Y2_Zjqs?si=Ghe09atSlCxN8aG3)
   - [The Role of Public Speaking in Career Growth - Women Who Code CONNECT Forward 2021](https://youtu.be/NaxYAFmJg2U)
   - [Privacy-Preserving AI – Perform Data Science on Data You Cannot See - Presented in Women Who Code CONNECT REIMAGINE 2021](https://youtu.be/hsloD5AKYCs)
   - [Climbing up the ladder through open-source contribution - Presented in Software Freedom Day 2021](https://youtu.be/zOuT6WU02_4)
