@@ -3,7 +3,7 @@ Hi there 🙂 Thanks for landing on my profile!
 </h2>
 
 <h3 align="center">
-AI Research Scientist
+Who am I? Tldr; an AI Research Scientist
 </h3>
 <p align="justified">
   I am an AI research scientist from Bangladesh, based in Canada. I am always driven by curiosity, eventually being ended up stepping into interesting places, exposed to new opportunities and meeting new people. I believe that knowledge is power and it has no end. Therefore, I am a lifelong student of the universe trying to acquire variety of knowledge just out of curiosity. 
